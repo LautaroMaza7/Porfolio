@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Porfolio/static/css/main.670348fc.css",
+    "main.js": "/Porfolio/static/js/main.9dc3bd07.js",
+    "static/media/janosmac.jpg": "/Porfolio/static/media/janosmac.db07929eda02dc144d17.jpg",
+    "static/media/dicssar.jpg": "/Porfolio/static/media/dicssar.57ac875c869a1da70a2b.jpg",
+    "static/media/janosblogmobile.jpg": "/Porfolio/static/media/janosblogmobile.6dd956647389a596dc37.jpg",
+    "static/media/cv.pdf": "/Porfolio/static/media/cv.7b776107f4732305ce76.pdf",
+    "index.html": "/Porfolio/index.html",
+    "main.670348fc.css.map": "/Porfolio/static/css/main.670348fc.css.map",
+    "main.9dc3bd07.js.map": "/Porfolio/static/js/main.9dc3bd07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.670348fc.css",
+    "static/js/main.9dc3bd07.js"
+  ]
+}
